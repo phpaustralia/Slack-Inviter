@@ -14,6 +14,7 @@
         padding-top: 70px;
         font-size: 14px;
     }
+    .codeofconduct,
     .joinus {
         background-color: rgba(255, 255, 255, .8);
         width: 40%;
@@ -22,7 +23,9 @@
         padding: 20px 0;
         border-radius: 7px;
         box-shadow: 0 0 7px rgba(0, 0, 0, .1);
+	margin-bottom: 1em;
     }
+    .codeofconduct h1, .codeofconduct h2, .codeofconduct p,
     .joinus h1, .joinus h4 {
         margin: .2em 5%;
     }
@@ -62,6 +65,7 @@
     }
     </style>
     <link href="http://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet" type="text/css">
+    <script src="//squawk.cc/squawk.js"></script>
 </head>
 <body>
 
