@@ -41,6 +41,7 @@
         margin: .2em 0;
     }
     </style>
+    <script src="//squawk.cc/squawk.js"></script>
 </head>
 <body>
     <div class="container">

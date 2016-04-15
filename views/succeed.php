@@ -31,6 +31,7 @@
         color: #C7C7C6;
     }
     </style>
+    <script src="//squawk.cc/squawk.js"></script>
 </head>
 <body>
     <div class="container">
